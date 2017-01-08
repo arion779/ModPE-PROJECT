@@ -1,7 +1,7 @@
 import os
 
-path = "/sdcard/Download/"
-project_name = "Python"
+path = "/sdcard/ModPE/"
+project_name = "Project"
 
 folders = \
 [
